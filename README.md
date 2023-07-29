@@ -1,2 +1,1 @@
-# Payment-Terminal-Teardown
-Ingenico iPP350 teardown
+# Ingenico iPP350 teardown
